@@ -1,0 +1,1 @@
+This is the Hetec ESP32 LoRa sender and receiver code, with an  AHT120 sensor attached to the Sender, and it send Temperature, Pressure and humidity to the receiver and sends data into InfluxDb, from which that retrieves data into Grafana and shows in the grafana dashboard 
